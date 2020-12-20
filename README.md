@@ -9,7 +9,7 @@ Our group was prompted with a hypothetical company and a general description of 
 The project was great because it was structured much like an industry software project would be. From building wireframes and drafting use cases, to scheduling progress meetings with the client. This undertaking gave us practice with an array of components that are a part of developing software.
 
 Technologies Used
--> HTML, CSS
--> JavaScript, jQuery, AJAX
--> PHP
--> MySQL, phpMyAdmin
+*-> HTML, CSS
+*-> JavaScript, jQuery, AJAX
+*-> PHP
+*-> MySQL, phpMyAdmin

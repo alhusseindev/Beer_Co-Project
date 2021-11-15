@@ -1,16 +1,27 @@
 # Beerco Beer Kiosk
 
 BeerCo Beer Kiosk
-Capstone project submission for CS 423 - Software Engineering, at Rutgers University - Camden
+### Technologies Used
+* HTML, CSS
+* JavaScript, jQuery, AJAX
+* PHP
+* MySQL, phpMyAdmin
 
-Description
-Our group was prompted with a hypothetical company and requested that we start working on a solution to help them utilize & leverage technology in their business. Together, we defined requirements and specifications for the software. We then coordinated the work load across a developed timeline and delivered the final product, after 3 months of development, employing AGILE methedologies throughout the project.
+### Screenshots
+The website is hosted on a local server. So here are some screenshots to provide an idea of the website structure.
+<hr>
 
-The project was great because it was structured much like an industry software project would be. From building wireframes and drafting use cases, to scheduling progress meetings with the client. This undertaking gave us practice with an array of components that are a part of developing software.
+> Login Page
+> <img src="./resources/screenshots/login.PNG" width=1000>
 
-Technologies Used
-- -> HTML, CSS
-- -> JavaScript, jQuery, AJAX
-- -> PHP
-- -> MySQL, phpMyAdmin
+> Home Page Header
+> <img src="./resources/screenshots/home_header.PNG" width=1000>
 
+> Home Page Top Half
+> <img src="./resources/screenshots/home_body1.PNG" width=1000>
+
+> Home Page Bottom Half
+> <img src="./resources/screenshots/home_body2.PNG" width=1000>
+
+> Individual Product Page
+> <img src="./resources/screenshots/product.PNG" width=1000>
